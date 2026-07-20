@@ -8,7 +8,9 @@ function App() {
 
   return (
     <>
-      <h1>Welcome to Vite + React+ Tailwind CSS</h1>
+      <h1 className="bg-amber-200 text-3xl font-bold underline flex justify-center items-center h-screen">
+        Welcome to Vite + React+ Tailwind CSS
+      </h1>
     </>
   );
 }
