@@ -29,7 +29,7 @@ npm install
 npm install
 ```
 
-### Step 3: For run
+### Step 4: For run
 
 ```powershell
 npm run dev
