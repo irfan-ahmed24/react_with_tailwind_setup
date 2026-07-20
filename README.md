@@ -1,16 +1,25 @@
-# React + Vite
+# React + Tailwind CSS Boilerplate / Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This is a ready-to-use **React (Vite)** and **Tailwind CSS** project template. You can use this boilerplate to kickstart any new project instantly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 How to Use (Setup on Your PC)
 
-## React Compiler
+To set up this project directly inside your specific folder without creating an extra nested folder, follow the steps below:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Step 1: Fork the Repository
 
-## Expanding the Oxlint configuration
+First, click the **Fork** button at the top right of this page to copy this repository to your own GitHub account.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Step 2: Create a New Folder on Your Computer
+
+Create a new folder anywhere on your PC (e.g., `my-new-project`) and navigate inside that folder.
+
+### Step 3: One-Command Complete Setup
+
+Open your terminal (CMD / PowerShell) inside that folder. Copy the **1-line command** below, replace it with your forked repository link, paste it into the terminal, and press `Enter`:
+
+```powershell
+git clone https://github.com/irfan-ahmed24/react_with_tailwind_setup.git .
+```
