@@ -22,7 +22,6 @@ Open your terminal (CMD / PowerShell) inside that folder. Copy the **1-line comm
 
 ```powershell
 git clone https://github.com/irfan-ahmed24/react_with_tailwind_setup.git .
-npm install
 ```
 
 ```powershell
