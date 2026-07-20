@@ -25,6 +25,12 @@ git clone https://github.com/irfan-ahmed24/react_with_tailwind_setup.git .
 npm install
 ```
 
+```powershell
+npm install
+```
+
 ### Step 3: For run
 
+```powershell
 npm run dev
+```
